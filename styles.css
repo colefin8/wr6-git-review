@@ -1,3 +1,7 @@
 html {
   border: 10px black dotted;
 }
+
+body {
+    background-color: red;
+}
